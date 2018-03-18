@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2018 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2018</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/Saiful, Rohini Nagar, Jule, Solapur, Maharashtra 413008/Vijapur Rd, Soregaon, Solapur, Maharashtra/@17.618035,75.8867467,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x3bc5d755d563d4d9:0x5b64fa378006bc23!2m2!1d75.8981367!2d17.625392!1m5!1m1!1s0x3bc5d7657dc5ef1f:0x6bc6b392192f2822!2m2!1d75.8937039!2d17.6121314?hl=en</url-->
+    <time>2018-03-17T22:43:47Z</time>
+  </metadata>
+  <wpt lat="17.625392" lon="75.8981367">
+    <name>Saiful</name>
+    <desc>Saiful, Rohini Nagar, Jule, Solapur, Maharashtra 413008, India</desc>
+  </wpt>
+  <wpt lat="17.6283799" lon="75.8971214">
+    <name>Vijapur Rd</name>
+    <desc>Vijapur Rd, Solapur, Maharashtra, India</desc>
+  </wpt>
+<trk>
+  <name>Saiful to Vijapur Rd</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="17.6252458" lon="75.8980983">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="17.62532" lon="75.89781">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="17.6254" lon="75.89744">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="17.6257" lon="75.89641">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="17.62571" lon="75.89639">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="17.62573" lon="75.89637">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="17.62574" lon="75.89636">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="17.62587" lon="75.89632">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="17.6258707" lon="75.8963207">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="17.62588" lon="75.89623">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="17.6258819" lon="75.8962255">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="17.62604" lon="75.89628">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="17.62683" lon="75.89657">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="17.62694" lon="75.89661">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="17.62816" lon="75.89705">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="17.62838" lon="75.89712">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="17.6283799" lon="75.8971214">
+    <name>TP017</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
